@@ -1,0 +1,21 @@
+.{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "poppins",sans-serif;
+    
+}
+h1{
+    color:blue;
+    background-color:grey;
+    
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: blue;
+    
+    
+}
